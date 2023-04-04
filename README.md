@@ -1,1 +1,1 @@
-# relay-module-blynk eith Esp8266(node mcu)
+# relay-module-blynk with Esp8266(node mcu)
